@@ -13,4 +13,4 @@ I am Mohamed lemaallaoui , A JavaScript Full stack web developer from Morocco , 
 
 
 ## languages and tools that I use  and learn about on a daily basis : 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,express,nodejs,mongodb,redux,tailwindcss,vscode,postman,vercel,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,express,nodejs,mongodb,redux,tailwindcss,vscode,postman,vercel,git,vite)](https://skillicons.dev)
